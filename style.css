@@ -218,7 +218,7 @@ h4 {
 }
 
 .service i {
-    font-size: 45px;
+    font-size: 55px;
     padding-top: 15px;
     color: #f9004d;
 }
@@ -227,12 +227,13 @@ h4 {
     color: white;
     text-transform: capitalize;
     font-size: 30px;
+    padding-bottom: 20px;
 }
 
 .service p {
     color: #fcfc;
     letter-spacing: 1px;
-    line-height: 26px
+    line-height: 25px;
 }
 
 .service a {
